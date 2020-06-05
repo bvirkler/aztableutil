@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "aztableutil": {
+      "commandName": "Project",
+      "commandLineArgs": "rename-col -u https://blah.com/Quotes -d -f HeightInches -t Height"
+    }
+  }
+}
